@@ -38,6 +38,7 @@ img {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+/* BELOW CODE CAN BE USED IF RESOLUTION IS NOT GIVEN IMPORTANCE */
 /*
  /* vw = viewport width 
  /* 960px and above 
